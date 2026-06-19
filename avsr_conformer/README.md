@@ -48,3 +48,12 @@ https://disk.yandex.ru/d/In1EVtg2NzsKUw
 
 Для старта обучения положить в `checkpoints/`.
 
+### Данные
+
+- Mozilla Data Collective: https://mozilladatacollective.com/datasets
+- OpenSTT public_youtube: https://github.com/snakers4/open_stt
+
+
+
+
+
